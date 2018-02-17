@@ -1,0 +1,2 @@
+# Sman
+fork Sman manager
